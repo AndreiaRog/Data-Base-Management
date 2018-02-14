@@ -1,2 +1,2 @@
-# IST---Data-Base-Management
-Practical component of university bachelors subject
+# IST-DataBaseManagement
+Practical component of university bachelors subject. 
